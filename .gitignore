@@ -1,0 +1,4 @@
+# Reference folders used for migration
+template/
+doom-one-colorscheme-nvim/
+.codex/
